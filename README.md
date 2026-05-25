@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Ayesha Hassan 👋</h1>
+<h1 align="center">Hey, I'm Ayesha Hassan</h1>
 
 <p align="center">
-  🎓 CS Student &nbsp;|&nbsp; 🤖 AI & ML Enthusiast &nbsp;|&nbsp; 🌐 Full-Stack Learner &nbsp;|&nbsp; 📍 Pakistan
+  CS Student &nbsp;|&nbsp; AI & ML Enthusiast &nbsp;|&nbsp; Full-Stack Learner &nbsp;|&nbsp; Pakistan
 </p>
 
 <p align="center">
@@ -21,23 +21,23 @@ Right now I'm focused on getting better at **machine learning** and building ful
 
 ---
 
-## 🔨 Things I've Built
+## Things I've Built
 
-**☕ Coffee Recommendation System** &nbsp;·&nbsp; `Python`  
+**Coffee Recommendation System** &nbsp;·&nbsp; `Python`  
 A rule-based system that suggests coffee based on your preferences — my first taste of building intelligent logic.
 
-**📊 Student Marks Analysis** &nbsp;·&nbsp; `Python · Matplotlib`  
+**Student Marks Analysis** &nbsp;·&nbsp; `Python · Matplotlib`  
 Visualized academic performance trends using real data — charts that actually tell a story.
 
-**🗓️ Study Matching Web App** &nbsp;·&nbsp; `React · TypeScript`  
+**Study Matching Web App** &nbsp;·&nbsp; `React · TypeScript`  
 A responsive app to help students sync their study schedules. Clean UI, component-based architecture.
 
-**📚 Library Management System** &nbsp;·&nbsp; `C++ · OOP`  
+**Library Management System** &nbsp;·&nbsp; `C++ · OOP`  
 Built a full console-based system for managing books and users — one of my earliest projects.
 
 ---
 
-## 🧰 My Toolkit
+## My Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,25 +50,13 @@ Built a full console-based system for managing books and users — one of my ear
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshahassan15&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshahassan15&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshahassan15&theme=github-dark-blue&hide_border=true" width="55%"/>
-</p>
-
----
-
-## 🌱 Currently
+## Currently
 
 - Taking ML courses on Kaggle (Deep Learning, Ethics)
-- Building with React & Node.js
+- Building with React and Node.js
 - Sharpening DSA skills in Java
-- Open to **internships** and **open source collaboration**
+- Open to internships and open source collaboration
 
 ---
 
